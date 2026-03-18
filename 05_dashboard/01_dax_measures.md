@@ -180,25 +180,6 @@ Variación porcentual del margen bruto respecto al mes anterior. Formato: `0.00%
 
 ---
 
-## Carpeta: Tarjetas HTML
-
-> Requieren el visual **HTML Viewer** de AppSource.
-> Arrastrar al canvas y seleccionar la medida correspondiente.
-
-| Medida | Descripción | Color |
-|---|---|---|
-| `HTML Total Ventas` | Tarjeta de ventas totales | Azul `#2E86AB` |
-| `HTML Total Costo` | Tarjeta de costo total | Rojo `#E84855` |
-| `HTML Utilidad Bruta` | Tarjeta de margen bruto | Verde `#69AF66` |
-| `HTML % Margen Bruto` | Tarjeta de % margen bruto | Naranja `#F4A261` |
-| `HTML Cantidad KG` | Tarjeta de kilos vendidos | Marrón `#6B4226` |
-| `HTML Margen Unitario KG` | Tarjeta de margen por kilo | Azul oscuro `#457B9D` |
-| `HTML Total gastos` | Tarjeta de gastos operativos | — |
-| `HTML Tarjeta Utilidad Operativa` | Tarjeta de utilidad operativa | — |
-| `HTML Tarjeta Unificada` | Tarjeta consolidada con múltiples KPIs | — |
-
----
-
 ## Configuración del Calendario
 
 Las siguientes columnas de `core calendario` deben tener **Sort By Column** configurado
