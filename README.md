@@ -17,7 +17,7 @@ Excel (Ventas + Compras)
    ├── core     ← datos limpios + lógica de negocio
    └── register ← log de cargas
         ↓
-   Power BI (DirectQuery)
+   Power BI
         ↓
    Dashboard de Márgenes
 ```
