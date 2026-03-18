@@ -61,9 +61,9 @@ Total de gastos operativos de la tabla `core.gastos`.
 
 ## Carpeta: Margen
 
-### Margen Bruto
+### Utilidad Bruta
 ```dax
-Margen Bruto = [Total Ventas] - [Total Costo]
+Utilidad Bruta = [Total Ventas] - [Total Costo]
 ```
 Margen bruto en soles (Ventas − Costo de ventas). Formato: `S/ #,0.00`
 
