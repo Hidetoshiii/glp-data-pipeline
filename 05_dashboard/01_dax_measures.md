@@ -11,7 +11,7 @@ Organizadas por carpeta (Display Folder).
 ```dax
 Total Ventas = SUM(costo_promedio_dinamico[total_venta])
 ```
-Suma total de ventas en soles. Formato: `S/ #,0.00`
+Suma total de ventas en soles. Formato: `S/ #,0`
 
 ---
 
